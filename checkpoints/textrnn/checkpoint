@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\ALL_model\\lstm\\ASK_google\\checkpoints\\textrnn\\best_validation"
+all_model_checkpoint_paths: "F:\\ALL_model\\lstm\\ASK_google\\checkpoints\\textrnn\\best_validation"
